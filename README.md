@@ -1,7 +1,7 @@
 ## Hi there 👋
 Rae-Wul
 X Account: Rea-wul on X
-Website: kena-eos.com
+Website: rea-wul.com
 Rea-wul is an Enhanced Operational System specifically designed to optimize the creation and deployment of AI agents. By integrating the Griffain and Arc frameworks, it offers a suite of advanced tools for the effective building, customization, and management of AI solutions.
 Features
 
