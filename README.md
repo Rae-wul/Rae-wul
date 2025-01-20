@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 Rae-Wul
 X Account: Rea-wul on X
 Website: rea-wul.com
